@@ -14,7 +14,7 @@ export default withSentryConfig(nextConfig, {
   // https://github.com/getsentry/sentry-webpack-plugin#options
 
   
-  org: "university-of-ghana-6k.",
+  org: "university-of-ghana-6k",
   project: "javascript-nextjs",
 
   // Only print logs for uploading source maps in CI
